@@ -1,0 +1,51 @@
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula08Corona03\Parte II ComponentesDinamicos\Dinamico02\Dinamico02\bin\Debug\Dinamico02.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula08Corona03\Parte II ComponentesDinamicos\Dinamico02\Dinamico02\bin\Debug\Dinamico02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula08Corona03\Parte II ComponentesDinamicos\Dinamico02\Dinamico02\bin\Debug\Dinamico02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula08Corona03\Parte II ComponentesDinamicos\Dinamico02\Dinamico02\obj\Debug\Dinamico02.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula08Corona03\Parte II ComponentesDinamicos\Dinamico02\Dinamico02\obj\Debug\Dinamico02.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula08Corona03\Parte II ComponentesDinamicos\Dinamico02\Dinamico02\obj\Debug\Dinamico02.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula08Corona03\Parte II ComponentesDinamicos\Dinamico02\Dinamico02\obj\Debug\Dinamico02.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula08Corona03\Parte II ComponentesDinamicos\Dinamico02\Dinamico02\obj\Debug\Dinamico02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula08Corona03\Parte II ComponentesDinamicos\Dinamico02\Dinamico02\obj\Debug\Dinamico02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2020\PrimeiroSemestre\SantaC#\Bim01Aula08Corona03\Parte II ComponentesDinamicos\Dinamico02\Dinamico02\obj\Debug\Dinamico02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Dinamico02\Dinamico02\bin\Debug\Dinamico02.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Dinamico02\Dinamico02\bin\Debug\Dinamico02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Dinamico02\Dinamico02\bin\Debug\Dinamico02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Dinamico02\Dinamico02\obj\Debug\Dinamico02.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Dinamico02\Dinamico02\obj\Debug\Dinamico02.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Dinamico02\Dinamico02\obj\Debug\Dinamico02.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Dinamico02\Dinamico02\obj\Debug\Dinamico02.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Dinamico02\Dinamico02\obj\Debug\Dinamico02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Dinamico02\Dinamico02\obj\Debug\Dinamico02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Dinamico02\Dinamico02\obj\Debug\Dinamico02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Ex02Dinamico\Dinamico02\bin\Debug\Dinamico02.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Ex02Dinamico\Dinamico02\bin\Debug\Dinamico02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Ex02Dinamico\Dinamico02\bin\Debug\Dinamico02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.csprojAssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2021\Primeiro Semestre\Santa LinguagemProgramacao\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\SantaLinguagem\Bim01Aula07\Ex02Dinamico\Dinamico02\bin\Debug\Dinamico02.exe.config
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\SantaLinguagem\Bim01Aula07\Ex02Dinamico\Dinamico02\bin\Debug\Dinamico02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\SantaLinguagem\Bim01Aula07\Ex02Dinamico\Dinamico02\bin\Debug\Dinamico02.pdb
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\SantaLinguagem\Bim01Aula07\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\SantaLinguagem\Bim01Aula07\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.Form1.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\SantaLinguagem\Bim01Aula07\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.Properties.Resources.resources
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\SantaLinguagem\Bim01Aula07\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.csproj.GenerateResource.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\SantaLinguagem\Bim01Aula07\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\SantaLinguagem\Bim01Aula07\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.exe
+C:\Users\Mauricio\Documents\MeusDocumentos\Computador - Casa\Apostilas\2022\PrimeiroSemestre\SantaLinguagem\Bim01Aula07\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.pdb
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\bin\Debug\Dinamico02.exe.config
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\bin\Debug\Dinamico02.exe
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\bin\Debug\Dinamico02.pdb
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.csproj.AssemblyReference.cache
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.csproj.SuggestedBindingRedirects.cache
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.Form1.resources
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.Properties.Resources.resources
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.csproj.GenerateResource.cache
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.csproj.CoreCompileInputs.cache
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.exe
+C:\Users\luanc\Desktop\Bim01Aula05\Ex02Dinamico\Dinamico02\obj\Debug\Dinamico02.pdb
